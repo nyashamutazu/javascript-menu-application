@@ -1,0 +1,5 @@
+// export const key = 'b7aa50b9a2e3eb98495a8b363d552599'
+export const key = '4c470bbf78ced44a02fc524876bf99a9'
+// export const key = '95c58eda8d599b6f0d419eb4daeccd0a'
+// export const key = '22991f824cc01029a2c97907a453356d'
+export const proxy = 'https://cors-anywhere.herokuapp.com/'
